@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ds_strings_archive archive_type="1" lang="en" region_id="2">
+    <!-- Nurse Joys -->
+    <string block_id="0" entry_id="0" table_id="346">\n</string>
+    <string block_id="0" entry_id="1" table_id="346">\n</string>
+    <string block_id="0" entry_id="2" table_id="346">\n</string>
+    <string block_id="0" entry_id="9" table_id="346">\n</string>
+    <string block_id="0" entry_id="6" table_id="346">\n</string>
+    <string block_id="0" entry_id="7" table_id="346">\n</string>
+    <string block_id="0" entry_id="3" table_id="213">\n</string>
+    <string block_id="0" entry_id="8" table_id="346">\n</string>
+
+    <!-- Day Care Man -->
+    <string block_id="0" entry_id="0" table_id="426">Breed?</string>
+
+    <!-- Fishing -->
+    <string block_id="0" entry_id="3" table_id="263">Pokemon!</string>
+    <string block_id="0" entry_id="4" table_id="263">None\n</string>
+
+    <!-- HMs -->
+    <string block_id="0" entry_id="13" table_id="280">\n</string><!-- Surf? -->
+    <string block_id="0" entry_id="14" table_id="280">\n</string><!-- X used Surf!-->
+</ds_strings_archive>
