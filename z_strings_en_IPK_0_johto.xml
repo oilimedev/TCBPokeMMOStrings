@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ds_strings_archive archive_type="0" lang="en" region_id="4">
+    <!-- HMs -->
+    <string block_id="0" entry_id="0" table_id="211">\n</string> <!-- Cut Prompt -->
+    <string block_id="0" entry_id="1" table_id="211">\n</string> <!-- Cut Usage -->
+    <string block_id="0" entry_id="14" table_id="211">\n</string> <!-- Surf Prompt -->
+    <string block_id="0" entry_id="15" table_id="211">\n</string> <!-- Surf Usage -->
+    <string block_id="0" entry_id="3" table_id="211">\n</string> <!-- Rock Smash Prompt -->
+    <string block_id="0" entry_id="4" table_id="211">\n</string> <!-- Rock Smash Not Learned-->
+    <string block_id="0" entry_id="5" table_id="211">\n</string> <!-- Rock Smash Usage -->
+    <string block_id="0" entry_id="32" table_id="211">\n</string> <!-- Headbutt Prompt -->
+    <string block_id="0" entry_id="33" table_id="211">\n</string> <!-- Headbutt Usage -->
+    <string block_id="0" entry_id="7" table_id="211">\n</string> <!-- Strength Prompt -->
+    <string block_id="0" entry_id="10" table_id="211">\n</string> <!-- Strength Already Used -->
+    <string block_id="0" entry_id="20" table_id="211">\n</string> <!-- Rock Climb Prompt -->
+    <string block_id="0" entry_id="21" table_id="211">\n</string> <!-- Rock Climb Usage -->
+    <string block_id="0" entry_id="22" table_id="211">\n</string> <!-- Rock Climb Not Learned -->
+    <string block_id="0" entry_id="29" table_id="211">\n</string> <!-- Whirlpool Prompt -->
+    <string block_id="0" entry_id="30" table_id="211">\n</string> <!-- Whirlpool Usage -->
+    <string block_id="0" entry_id="31" table_id="211">\n</string> <!-- Whirlpool Not Learned -->
+
+    <!-- TMs -->
+    <string block_id="0" entry_id="690" table_id="3">\n</string> <!-- Sweet Scent Usage -->
+
+    <!-- Apricorn -->
+    <string block_id="0" entry_id="0" table_id="23">\n</string>
+    <string block_id="0" entry_id="1" table_id="23">\n</string>
+    <string block_id="0" entry_id="2" table_id="23">\n</string>
+    <string block_id="0" entry_id="3" table_id="23">\n</string>
+    <string block_id="0" entry_id="5" table_id="23">\n</string>
+    <string block_id="0" entry_id="6" table_id="23">\n</string>
+    <string block_id="0" entry_id="7" table_id="23">\n</string>
+
+    <!-- Battle -->
+    <!-- Combat Text -->
+
+    <!-- Pick up -->
+    <string block_id="0" entry_id="2" table_id="51">({01}!</string>
+    <string block_id="0" entry_id="3" table_id="199">({01}!</string>
+    <string block_id="0" entry_id="6" table_id="199">({01} {02}!</string>
+    <string block_id="0" entry_id="3" table_id="210">({01}!</string>
+    <string block_id="0" entry_id="6" table_id="210">({01} {02}!</string>
+    <string block_id="0" entry_id="33" table_id="626">({01}!</string>
+    <string block_id="0" entry_id="30" table_id="40">\n</string>
+    <string block_id="0" entry_id="31" table_id="40">\n</string>
+    <string block_id="0" entry_id="4" table_id="23">\n</string>
+    <string block_id="0" entry_id="4" table_id="23">\n</string>
+    <string block_id="0" entry_id="89" table_id="40">\n</string>
+    <string block_id="0" entry_id="3" table_id="51">\n</string>
+    <string block_id="0" entry_id="2" table_id="199">\n</string>
+    <string block_id="0" entry_id="5" table_id="199">\n</string>
+    <string block_id="0" entry_id="9" table_id="199">\n</string>
+    <string block_id="0" entry_id="9" table_id="210">\n</string>
+    <string block_id="0" entry_id="34" table_id="626">\n</string>
+
+    <!-- Poke Center -->
+    <string block_id="0" entry_id="0" table_id="40">\n</string> <!-- Nurse Joy -->
+    <string block_id="0" entry_id="1" table_id="40">\n</string>
+    <string block_id="0" entry_id="2" table_id="40">\n</string>
+    <string block_id="0" entry_id="3" table_id="40">\n</string>
+    
+    <!-- Day Care -->
+    <string block_id="0" entry_id="29" table_id="439">\n</string> <!-- Cancel Trade -->
+</ds_strings_archive>
+```

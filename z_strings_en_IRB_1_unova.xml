@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ds_strings_archive archive_type="1" lang="en" region_id="2">
+    <!-- HMs -->
+    <string block_id="0" entry_id="13" table_id="280">\n</string> <!-- Surf Prompt -->
+    <string block_id="0" entry_id="14" table_id="280">\n</string> <!-- Surf Usage -->
+    <string block_id="0" entry_id="15" table_id="280">\n</string> <!-- Surf Followed -->
+    <string block_id="0" entry_id="23" table_id="280">\n</string> <!-- Waterfall Prompt -->
+    <string block_id="0" entry_id="24" table_id="280">\n</string> <!-- Waterfall Usage -->
+    <string block_id="0" entry_id="25" table_id="280">\n</string> <!-- Waterfall Not Learned -->
+    <string block_id="0" entry_id="0" table_id="280">\n</string> <!-- Cut Prompt -->
+    <string block_id="0" entry_id="1" table_id="280">\n</string> <!-- Cut Usage -->
+    <string block_id="0" entry_id="2" table_id="280">\n</string> <!-- Cut Not Learned -->
+    <string block_id="0" entry_id="28" table_id="280">\n</string> <!-- Teleport Usage -->
+
+    <!-- Poke Center -->
+    <string block_id="0" entry_id="0" table_id="346">\n</string> <!-- Nurse Joy -->
+    <string block_id="0" entry_id="6" table_id="346">\n</string>
+    <string block_id="0" entry_id="7" table_id="346">\n</string>
+    <string block_id="0" entry_id="8" table_id="346">\n</string>
+
+    <!-- Day Care -->
+    <string block_id="0" entry_id="14" table_id="426">\n</string> <!-- Day Care Cancel -->
+</ds_strings_archive>

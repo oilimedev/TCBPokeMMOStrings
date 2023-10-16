@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_primary="0" lang="en" lang_full="English">
+
+    <!-- General -->
+    <!-- HMs -->
+    <string id="16780155">\n</string> <!-- Kanto and Hoenn HM Usage -->
+    <string id="271124337">\n</string>
+    <string id="1826775">\n</string>
+
+    <!-- TMs -->
+    <string id="271124337">\n</string>
+    <string id="8600">\n</string> <!-- Out of PP Prompt -->
+
+    <!-- PC -->
+    <string id="2350">\n</string> <!-- PC Menu -->
+    <string id="2351">(PC</string>
+
+    <!-- Pirate -->
+    <string id="16780100">\n</string>
+    <string id="16780102">\n</string> <!-- New Region Prompt -->
+    <string id="16780103">\n</string>
+    <string id="16780104">\n</string>
+    <string id="16780110">\n</string> <!-- Chatot Dialog -->
+
+    <!-- Battle -->
+    <!-- Menu -->
+    <string id="5101">\n</string> <!-- Fight Subtext -->
+    <string id="5121">\n</string> <!-- Summary Subtext -->
+    <string id="5107">\n</string> <!-- Run Subtext -->
+    <string id="5103">\n</string> <!-- Switch Subtext -->
+    <!-- Combat Text -->
+
+    <!-- Move Tutors -->
+    <string id="16779020">\n</string>
+    <string id="16779021">\n</string>
+    <string id="16779022">\n</string>
+    <string id="16779023">\n</string>
+    <string id="16779024">\n</string>
+    <string id="16779025">\n</string>
+    <string id="16779026">\n</string>
+    <string id="16779027">\n</string>
+    <string id="16779035">\n</string>
+    <string id="16779052">({00}x {01}?</string>
+    <string id="16779034">\n</string>
+
+
+    <!-- Kanto -->
+        <!-- HMs -->
+        <string id="1725806">\n</string> <!-- Surf Prompt -->
+        <string id="1826708">\n</string> <!-- Cut Prompt -->
+        <string id="1826973">\n</string> <!-- Rock Smash Prompt -->
+        <string id="1827647">\n</string> <!-- Waterfall Prompt -->
+
+        <!-- Pokecenter -->
+        <string id="1725571">\n</string> <!-- Nurse Joy -->
+        <string id="1725665">\n</string>
+        <string id="1725713">\n</string>
+        <string id="1725739">\n</string>
+    
+    <!-- Johto -->
+    <!-- HMs -->
+    <string id="16777272">\n</string> <!-- Headbutt No Pokemon -->
+
+    <!-- Hoenn -->
+    <!-- HMs -->
+    <string id="271003606">\n</string> <!-- Surf Prompt -->
+    <string id="271125418">\n</string> <!-- Dive Not Learned --> 
+    <string id="271125480">\n</string> <!-- Dive Down Prompt -->
+    <string id="271125614">\n</string> <!-- Dive Up Prompt -->
+    <string id="271125134">\n</string> <!-- Waterfall Not Learned -->
+    <string id="271125187">\n</string> <!-- Waterfall Prompt -->
+    <string id="271124780">\n</string> <!-- Strength Prompt -->
+    <string id="271125014">\n</string> <!-- Strength Message -->
+    <string id="271124538">\n</string> <!-- Rock Smash Prompt -->
+    <string id="271124607">\n</string> <!-- Rock Smash Not Learned -->
+
+    <!-- Poke Center -->
+    <string id="271001323">\n</string> <!-- Nurse Joy -->
+    <string id="271002048">\n</string>
+    <string id="271001496">\n</string>
+    <string id="271001563">\n</string>
+
+    <!-- Berries -->
+    <string id="16780314">\n</string> <!-- Dead Berry Plant -->
+    <string id="16780319">\n</string> <!-- Dead Berry Plant -->
+    <string id="16780322">\n</string> <!-- Dead Berry Plant -->
+    <string id="16780315">\n</string> <!-- Dry Soil -->
+    <string id="16780316">\n</string> <!-- Moist Soil -->
+    <string id="16780317">\n</string> <!-- Wet Soil -->
+    <string id="16780318">\n</string> <!-- Flooded Soil -->
+    <string id="16780320">\n</string> <!-- Almost Dry Soil -->
+    <string id="16780321">\n</string> <!-- Almost Flooded Soil -->
+    <string id="16780335">\n</string> <!-- Dry Soil -->
+    <string id="16780336">\n</string> <!-- Almost Dry Soil -->
+    <string id="16780337">\n</string> <!-- Moist Soil -->
+    <string id="16780338">\n</string> <!-- Wet Soil -->
+    <string id="16780339">\n</string> <!-- Almost Flooded Soil -->
+    <string id="16780340">\n</string> <!-- Flooded Soil -->
+    <string id="16780326">\n</string> <!-- Plant Prompt -->
+    <string id="16780327">\n</string> <!-- Water Prompt -->
+    <string id="16780328">\n</string> <!-- Water Usage -->
+    <string id="16780329">\n</string> <!-- Pick Prompt -->
+    <string id="16780330">\n</string> <!-- Not Pick Usage -->
+    <string id="16780331">\n</string> <!-- Pick Usage -->
+    <string id="16780350">\n</string> <!-- Berry Growth -->
+    <string id="16780351">\n</string> <!-- Berry Growth -->
+    <string id="16780352">\n</string> <!-- Berry Growth -->
+    <string id="16780353">\n</string> <!-- Berry Growth -->
+    <string id="16780375">\n</string> <!-- Can NPC-->
+
+    <!-- Day Care -->
+    <string id="16779080">\n</string> <!-- Pokemon Prompt -->
+    <string id="16779081">\n</string> <!-- Not Enough Pokemon -->
+    <string id="16779082">\n</string> <!-- Confirm Trade -->
+    <string id="16779083">\n</string> <!-- Pokemon Selection -->
+    <string id="16779084">\n</string> <!-- Pokemon Selection -->
+    <string id="16779085">\n</string> <!-- Incompatible Pokemon -->
+    <string id="16779087">\n</string> 
+    <string id="16779088">\n</string>
+    <string id="16779091">\n</string> <!-- Gender Prompt -->
+    <string id="16779092">\n</string> <!-- Gender Prompt -->
+    <string id="16779093">(${00} OK?</string>
+    <string id="16779094">\n</string>
+    <string id="271131670">\n</string> <!-- Cancel Trade -->
+    <string id="1695196">\n</string> <!-- Cancel Trade -->
+</strings>
