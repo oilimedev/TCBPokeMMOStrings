@@ -2,10 +2,12 @@
 <strings is_primary="0" lang="en" lang_full="English">
 
     <!-- General -->
+    <string id="6012">\n</string> <!-- Item Worn Off -->
     <!-- HMs -->
     <string id="16780155">\n</string> <!-- Kanto and Hoenn HM Usage -->
     <string id="271124337">\n</string>
     <string id="1826775">\n</string>
+    <string id="16777216">\n</string> <!-- HM Badge Requirement -->
 
     <!-- TMs -->
     <string id="271124337">\n</string>
@@ -73,12 +75,19 @@
     <string id="271125014">\n</string> <!-- Strength Message -->
     <string id="271124538">\n</string> <!-- Rock Smash Prompt -->
     <string id="271124607">\n</string> <!-- Rock Smash Not Learned -->
+    <string id="271124270">\n</string> <!-- Cut Prompt -->
+    <string id="271124337">\n</string> <!-- Cut Usage -->
+    <string id="271124349">\n</string> <!-- Cut Not Learned -->
 
     <!-- Poke Center -->
     <string id="271001323">\n</string> <!-- Nurse Joy -->
     <string id="271002048">\n</string>
     <string id="271001496">\n</string>
     <string id="271001563">\n</string>
+
+    <!-- Poke Mart  -->
+    <string id="271002145">\n</string>
+    <string id="271002175">\n</string>
 
     <!-- Berries -->
     <string id="16780314">\n</string> <!-- Dead Berry Plant -->
@@ -123,4 +132,11 @@
     <string id="16779094">\n</string>
     <string id="271131670">\n</string> <!-- Cancel Trade -->
     <string id="1695196">\n</string> <!-- Cancel Trade -->
+    <string id="16777221">\n</string>
+    <string id="16777223">\n</string>
+    <string id="271131087">\n</string>
+    <string id="271131044">\n</string>
+    <string id="271131044">\n</string> <!-- Kanto Give Egg -->
+    <string id="271131087">\n</string> <!-- Kanto Give Egg -->
+    <string id="270692404">\n</string> <!-- Kanto Give Egg -->
 </strings>

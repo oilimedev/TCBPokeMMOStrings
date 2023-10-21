@@ -17,7 +17,11 @@
     <string block_id="0" entry_id="6" table_id="346">\n</string>
     <string block_id="0" entry_id="7" table_id="346">\n</string>
     <string block_id="0" entry_id="8" table_id="346">\n</string>
+    <string block_id="0" entry_id="2" table_id="346">\n</string>
 
     <!-- Day Care -->
     <string block_id="0" entry_id="14" table_id="426">\n</string> <!-- Day Care Cancel -->
+    <string block_id="0" entry_id="7" table_id="426">\n</string>
+    <string block_id="0" entry_id="8" table_id="426">\n</string>
+    <string block_id="0" entry_id="9" table_id="346">\n</string>
 </ds_strings_archive>
