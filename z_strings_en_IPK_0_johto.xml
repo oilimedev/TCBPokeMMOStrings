@@ -58,6 +58,8 @@
     <string block_id="0" entry_id="1" table_id="40">\n</string>
     <string block_id="0" entry_id="2" table_id="40">\n</string>
     <string block_id="0" entry_id="3" table_id="40">\n</string>
+    <string block_id="0" entry_id="84" table_id="40">\n</string>
+    <string block_id="0" entry_id="83" table_id="40">\n</string>
 
     <!-- Poke Mart -->
     <string block_id="0" entry_id="38" table_id="40">\n</string>
@@ -65,4 +67,3 @@
     <!-- Day Care -->
     <string block_id="0" entry_id="29" table_id="439">\n</string> <!-- Cancel Trade -->
 </ds_strings_archive>
-```
