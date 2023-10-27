@@ -33,7 +33,8 @@
 
     <!-- TMs -->
     <string block_id="0" entry_id="690" table_id="3">\n</string> <!-- Sweet Scent Usage -->
-
+    <string block_id="0" entry_id="28" table_id="211">\n</string>
+    
     <!-- Apricorn -->
     <string block_id="0" entry_id="0" table_id="23">\n</string>
     <string block_id="0" entry_id="1" table_id="23">\n</string>

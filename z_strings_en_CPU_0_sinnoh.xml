@@ -21,6 +21,10 @@
     <string block_id="0" entry_id="4" table_id="381">\n</string> <!-- Rock Smash Not Learned -->
     <string block_id="0" entry_id="5" table_id="381">\n</string> <!-- Rock Smash Usage -->
 
+    <!-- TMs -->
+    <string block_id="0" entry_id="26" table_id="381">\n</string>
+    
+
     <!-- Battle -->
     <!-- Combat Text -->
     <string block_id="0" entry_id="781" table_id="368">(Escaped!</string> <!-- Run Success -->

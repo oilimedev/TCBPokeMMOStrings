@@ -12,6 +12,11 @@
     <string block_id="0" entry_id="2" table_id="280">\n</string> <!-- Cut Not Learned -->
     <string block_id="0" entry_id="28" table_id="280">\n</string> <!-- Teleport Usage -->
 
+    <!-- TMs -->
+    <string block_id="0" entry_id="29" table_id="280">\n</string>
+    <string block_id="0" entry_id="27" table_id="280">\n</string>
+    
+
     <!-- Poke Center -->
     <string block_id="0" entry_id="0" table_id="346">\n</string> <!-- Nurse Joy -->
     <string block_id="0" entry_id="6" table_id="346">\n</string>
