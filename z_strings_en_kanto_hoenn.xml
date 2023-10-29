@@ -22,7 +22,7 @@
 
     <!-- PC -->
     <string id="2350">\n</string> <!-- PC Menu -->
-    <string id="2351">(PC</string>
+    <string id="2351"> PC</string>
 
     <!-- Pirate -->
     <string id="16780100">\n</string>
@@ -49,7 +49,7 @@
     <string id="16779026">\n</string>
     <string id="16779027">\n</string>
     <string id="16779035">\n</string>
-    <string id="16779052">({00}x {01}?</string>
+    <string id="16779052"> {00}x {01}?</string>
     <string id="16779034">\n</string>
 
 
@@ -135,7 +135,7 @@
     <string id="16779088">\n</string>
     <string id="16779091">\n</string> <!-- Gender Prompt -->
     <string id="16779092">\n</string> <!-- Gender Prompt -->
-    <string id="16779093">(${00} OK?</string>
+    <string id="16779093"> ${00} OK?</string>
     <string id="16779094">\n</string>
     <string id="271131670">\n</string> <!-- Cancel Trade -->
     <string id="1695196">\n</string> <!-- Cancel Trade -->

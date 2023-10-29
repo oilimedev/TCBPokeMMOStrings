@@ -48,12 +48,12 @@
     <!-- Combat Text -->
 
     <!-- Pick up -->
-    <string block_id="0" entry_id="2" table_id="51">({01}!</string>
-    <string block_id="0" entry_id="3" table_id="199">({01}!</string>
-    <string block_id="0" entry_id="6" table_id="199">({01} {02}!</string>
-    <string block_id="0" entry_id="3" table_id="210">({01}!</string>
-    <string block_id="0" entry_id="6" table_id="210">({01} {02}!</string>
-    <string block_id="0" entry_id="33" table_id="626">({01}!</string>
+    <string block_id="0" entry_id="2" table_id="51"> {01}!</string>
+    <string block_id="0" entry_id="3" table_id="199"> {01}!</string>
+    <string block_id="0" entry_id="6" table_id="199"> {01} {02}!</string>
+    <string block_id="0" entry_id="3" table_id="210"> {01}!</string>
+    <string block_id="0" entry_id="6" table_id="210"> {01} {02}!</string>
+    <string block_id="0" entry_id="33" table_id="626"> {01}!</string>
     <string block_id="0" entry_id="30" table_id="40">\n</string>
     <string block_id="0" entry_id="31" table_id="40">\n</string>
     <string block_id="0" entry_id="4" table_id="23">\n</string>
