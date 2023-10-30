@@ -39,6 +39,11 @@
     <string id="5103">\n</string> <!-- Switch Subtext -->
     <!-- Combat Text -->
 
+    <!-- Item Pick Up -->
+    <string id="271002303"> x1 {03}!</string>
+    <string id="1724977"> x1 {03}!</string>
+    <string id="16777232"> {01}x {02}(s)!</string>
+
     <!-- Move Tutors -->
     <string id="16779020">\n</string>
     <string id="16779021">\n</string>
@@ -95,6 +100,8 @@
     <!-- Poke Mart  -->
     <string id="271002145">\n</string>
     <string id="271002175">\n</string>
+    <string id="1729041">\n</string>
+    <string id="1724816">\n</string>
 
     <!-- Berries -->
     <string id="16780314">\n</string> <!-- Dead Berry Plant -->
