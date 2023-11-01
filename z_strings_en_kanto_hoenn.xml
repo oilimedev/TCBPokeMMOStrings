@@ -63,13 +63,38 @@
         <string id="1725806">\n</string> <!-- Surf Prompt -->
         <string id="1826708">\n</string> <!-- Cut Prompt -->
         <string id="1826973">\n</string> <!-- Rock Smash Prompt -->
-        <string id="1827647">\n</string> <!-- Waterfall Prompt -->
+        <string id="1827647">\n</string> <!-- Waterfall Prompt -->\
+        <string id="271124780">\n</string>
+        <string id="271124876">\n</string>
+        <string id="271124950">\n</string>
+        <string id="271125014">\n</string>
+        <string id="1827226">\n</string>
+        <string id="1827322">\n</string>
+        <string id="1827396">\n</string>
+        <string id="1827460">\n</string>
+        
+    
+
+        <!-- Received -->
+        <string id="1693601"> HM-05Flash</string> <!-- Flash Received -->
 
         <!-- Pokecenter -->
         <string id="1725571">\n</string> <!-- Nurse Joy -->
         <string id="1725665">\n</string>
         <string id="1725713">\n</string>
         <string id="1725739">\n</string>
+
+        <!-- Fossil Pick Up -->    
+        <string id="1519223"> DOME FOSSIL?</string>
+        <string id="1519252"> HELIX FOSSIL?</string>
+        <string id="1519282"> HELIX FOSSIL!</string>
+        <string id="1519309"> DOME FOSSIL!</string>
+
+        <!-- Third Gym Buttons -->
+        <string id="1659529">Trash.</string>
+        <string id="1659560">1st click!</string>
+        <string id="1659696">2nd click!</string>
+        <string id="1659756">Reset!</string>
     
     <!-- Johto -->
     <!-- HMs -->
@@ -130,6 +155,8 @@
     <string id="16780352">\n</string> <!-- Berry Growth -->
     <string id="16780353">\n</string> <!-- Berry Growth -->
     <string id="16780375">\n</string> <!-- Can NPC-->
+    <string id="16780309">\n</string>
+    <string id="16780310">\n</string>
 
     <!-- Day Care -->
     <string id="16779080">\n</string> <!-- Pokemon Prompt -->
@@ -153,4 +180,32 @@
     <string id="271131044">\n</string> <!-- Kanto Give Egg -->
     <string id="271131087">\n</string> <!-- Kanto Give Egg -->
     <string id="270692404">\n</string> <!-- Kanto Give Egg -->
+    <string id="16779070">\n</string> <!-- Braces Seller -->
+    
+    <!-- Events -->
+    <!-- Halloween -->
+    <string id="16800210">\n</string>
+    <string id="16800211">\n</string>
+    <string id="16800027">\n</string>
+    <string id="16800028">\n</string>
+    <string id="16800029">\n</string>
+    <string id="16800023">\n</string>
+    <string id="16800024">\n</string>
+    <string id="16800025">\n</string>
+    <string id="16800026">\n</string>
+    <string id="16800203">\n</string>
+    <string id="16800040">\n</string>
+    <string id="16800030">\n</string>
+    <string id="16800031">\n</string>
+    <string id="16800032">\n</string>
+    <string id="16800033">\n</string>
+    <string id="16800034">\n</string>
+    <string id="16800035">\n</string>
+    <string id="16800036">\n</string>
+    <string id="16800037">\n</string>
+    <string id="16800038">\n</string>
+    <string id="16800041">\n</string>
+    <string id="16800042">\n</string>
+    <string id="16800053">\n</string>
+    
 </strings>
