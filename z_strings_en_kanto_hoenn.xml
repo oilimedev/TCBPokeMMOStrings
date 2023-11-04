@@ -73,8 +73,6 @@
         <string id="1827396">\n</string>
         <string id="1827460">\n</string>
         
-    
-
         <!-- Received -->
         <string id="1693601"> HM-05Flash</string> <!-- Flash Received -->
 
@@ -83,6 +81,7 @@
         <string id="1725665">\n</string>
         <string id="1725713">\n</string>
         <string id="1725739">\n</string>
+        <string id="1561680">\n</string>
 
         <!-- Fossil Pick Up -->    
         <string id="1519223"> DOME FOSSIL?</string>
@@ -95,7 +94,12 @@
         <string id="1659560">1st click!</string>
         <string id="1659696">2nd click!</string>
         <string id="1659756">Reset!</string>
-    
+
+        <!-- Oak's Aidees -->
+        <string id="1698277"> {02} kinds of POKéMON?</string>
+        <string id="1701291"> {02} kinds of POKéMON?</string>
+        <string id="1702670"> 40 kinds of POKéMON?</string>
+
     <!-- Johto -->
     <!-- HMs -->
     <string id="16777272">\n</string> <!-- Headbutt No Pokemon -->
