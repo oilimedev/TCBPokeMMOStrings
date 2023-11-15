@@ -20,6 +20,8 @@
     <string block_id="0" entry_id="3" table_id="381">\n</string> <!-- Rock Smash Prompt -->
     <string block_id="0" entry_id="4" table_id="381">\n</string> <!-- Rock Smash Not Learned -->
     <string block_id="0" entry_id="5" table_id="381">\n</string> <!-- Rock Smash Usage -->
+    <string block_id="0" entry_id="18" table_id="381">\n</string>
+    
 
     <!-- TMs -->
     <string block_id="0" entry_id="26" table_id="381">\n</string>
