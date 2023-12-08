@@ -29,11 +29,15 @@
     <string block_id="0" entry_id="1" table_id="424">\n</string>
     <string block_id="0" entry_id="2" table_id="424">\n</string>
     <string block_id="0" entry_id="3" table_id="424">\n</string>
-    
 
     <!-- Day Care -->
     <string block_id="0" entry_id="14" table_id="426">\n</string> <!-- Day Care Cancel -->
     <string block_id="0" entry_id="7" table_id="426">\n</string>
     <string block_id="0" entry_id="8" table_id="426">\n</string>
     <string block_id="0" entry_id="9" table_id="346">\n</string>
+
+    <!-- Gym Reruns -->
+    <string block_id="0" entry_id="0" table_id="68">\n</string>
+    <string block_id="0" entry_id="0" table_id="102">\n</string>
+    
 </ds_strings_archive>
