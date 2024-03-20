@@ -18,8 +18,8 @@
     <string block_id="0" entry_id="11" table_id="280">\n</string>
     
     <!-- Fishing -->
-    <string block_id="0" entry_id="3" table_id="263">!!!</string>
-    <string block_id="0" entry_id="4" table_id="263">...</string>
+    <string block_id="0" entry_id="3" table_id="263">{09}</string> <!-- Hook-->
+    <string block_id="0" entry_id="4" table_id="263">{09}</string> <!-- Miss -->
 
     <!-- TMs -->
     <string block_id="0" entry_id="29" table_id="280">\n</string>
