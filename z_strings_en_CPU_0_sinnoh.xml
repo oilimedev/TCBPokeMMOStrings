@@ -27,7 +27,8 @@
 
     <!-- Battle -->
     <!-- Combat Text -->
-    <string block_id="0" entry_id="781" table_id="368"> Escaped!</string> <!-- Run Success -->
+    <string block_id="0" entry_id="781" table_id="368">Escaped!</string> <!-- Run Success -->
+    <string block_id="0" entry_id="974" table_id="368">{00} CPU {01}!</string>
 
     <!-- Poke Center -->
     <string block_id="0" entry_id="0" table_id="213">\n</string> <!-- Nurse Joy -->
