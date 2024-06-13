@@ -3,7 +3,7 @@
 
     <!-- General -->
     <string id="6012">\n</string> <!-- Item Worn Off -->
-    <string id="5019">■■■ {00} ■■■</string> <!-- Shiny String-->
+    <string id="5019">Shiny {00} ■■■</string> <!-- Shiny String-->
     <string id="5020">Horde!</string> <!-- Horde String-->
     <string id="5021">Horde!</string> <!-- Wild Horde String-->
     <string id="200245">{23} {16}!</string>
