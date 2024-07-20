@@ -4530,4 +4530,21 @@
     <string id="1579774">\n</string>
     <string id="271211820">\n</string>
     <string id="271213373">\n</string>
+    <string id="1627089">\n</string>
+    <string id="1627128">\n</string>
+    <string id="16780140">\n</string>
+    <!-- Honeytress -->
+    <string id="16780141">1 Honey, more?</string>
+    <string id="16780142">2 Honey, more?</string>
+    <string id="16780143">3 Honey.</string>
+    <!-- Braces -->
+    <string id="245289">Power Bracer +Atk</string>
+    <string id="245290">Power Belt +Def</string>
+    <string id="245291">Power Lens +SpAtk</string>
+    <string id="245292">Power Band +SpDef</string>
+    <string id="245293">Power Anklet +Spe</string>
+    <string id="245294">Power Weight +HP</string>
+
+    <!-- FAQs -->
+    <string id="1112">Elite Four Guide</string>
 </strings>
