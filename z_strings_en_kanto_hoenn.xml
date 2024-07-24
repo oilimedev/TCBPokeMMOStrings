@@ -4547,4 +4547,15 @@
 
     <!-- FAQs -->
     <string id="1112">Elite Four Guide</string>
+
+    <!-- Memes -->
+    <string id="1605">BP:</string>
+    <string id="1602">{09}</string>
+    <string id="1603">{00} hour(s).</string>
+    <string id="1607"> Lv. {00}</string>
+    <string id="1606">Slaved</string>
+
+    <!-- Battle Frontier -->
+    <string id="270923770">\n</string>
+    <string id="270925586">\n</string>
 </strings>
