@@ -3,15 +3,14 @@
 
     <!-- General -->
     <string id="6012">\n</string> <!-- Item Worn Off -->
-    <string id="5019">Shiny {00} ■■■</string> <!-- Shiny String-->
     <string id="5020">Horde!</string> <!-- Horde String-->
     <string id="5021">Horde!</string> <!-- Wild Horde String-->
     <string id="200245">{23} {16}!</string>
     <string id="205245">{23} {16}!</string>
     <string id="200436">{01} KO!</string>
     <string id="6063">Found {00}!</string>
-    <string id="200245">{23} dsfd\n{16}!</string>
-    <string id="205245">{23} usesfd\n{16}!</string>
+    <string id="200245">{23} uses\n{16}!</string>
+    <string id="205245">{23} uses\n{16}!</string>
 
     <!-- HMs -->
     <string id="16780155">\n</string> <!-- Kanto and Hoenn HM Usage -->
@@ -4558,4 +4557,8 @@
     <!-- Battle Frontier -->
     <string id="270923770">\n</string>
     <string id="270925586">\n</string>
+
+    <!-- Memes -->
+    <string id="69420">Shelly and Courtney\nmy beloved.</string>
+    <string id="69421">Congratulations to Jaddee\nfor the Shiny Eevee.</string>
 </strings>
