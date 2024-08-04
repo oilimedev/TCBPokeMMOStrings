@@ -45,7 +45,7 @@
 
     <!-- Battle -->
     <!-- Combat Text -->
-    <string block_id="0" entry_id="974" table_id="197">{00}ipk{01}!</string>
+    <string block_id="0" entry_id="974" table_id="197">{00} {01}!</string>
 
     <!-- Pick up -->
     <string block_id="0" entry_id="2" table_id="51"> {01}!</string>
