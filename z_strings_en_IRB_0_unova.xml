@@ -9,6 +9,14 @@
     <string block_id="0" entry_id="59" table_id="15">{09}</string>
     <string block_id="0" entry_id="60" table_id="15">{09}</string>
     <string block_id="0" entry_id="58" table_id="15">{09}</string> <!-- Money obtained -->
+    <string block_id="0" entry_id="1" table_id="14">The wild {00} fainted!</string>
+
+	<!-- Payday -->
+    <string block_id="0" entry_id="122" table_id="15">{09}</string>
+    <string block_id="0" entry_id="1" table_id="14">{09}</string>
+    <string block_id="0" entry_id="72" table_id="15">Escaped!</string>
+    <string block_id="0" entry_id="176" table_id="234">{09}</string>
+    <string block_id="0" entry_id="177" table_id="234">{09}</string>
 
     <!-- HMs -->
 
@@ -24,9 +32,6 @@
     <string block_id="0" entry_id="168" table_id="189">{09}</string>
     <string block_id="0" entry_id="420" table_id="189">{09}</string>
     <string block_id="0" entry_id="423" table_id="189">{09}</string>
-
-	<!-- Used Moves -->
-    <string block_id="0" entry_id="1305" table_id="13">Discharge!</string>
    
     <!-- Story & Trainers -->
 	<string block_id="0" entry_id="0" table_id="192">{09}</string>

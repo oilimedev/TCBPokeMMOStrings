@@ -11,6 +11,7 @@
     <string id="6063">Found {00}!</string>
     <string id="200245">{23} uses{09}{16}!</string>
     <string id="205245">{23} uses{09}{16}!</string>
+    <string id="6064">{09}</string> <!-- BP Earned -->
 
     <!-- HMs -->
     <string id="16780155">{09}</string> <!-- Kanto and Hoenn HM Usage -->
@@ -20,6 +21,12 @@
     <string id="16777265">{09}</string>
     <string id="16780421">{09}</string>
     
+    <!-- Lures -->
+    <string id="1151">{00} R step(s).</string>
+    <string id="1152">{00} S step(s).</string>
+    <string id="16777251">{00} L step(s).</string>
+    <string id="16777253">{00} PL step(s).</string>
+    <string id="16777277">{00} LL lure step(s).</string>
 
     <!-- Ho-Oh Strings -->
     <string id="16777273">{09}</string>
