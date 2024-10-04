@@ -3,34 +3,44 @@ I separate them by string file, and each file for region+trainer text removal.
 
 ## Progress
 ### Kanto
-[Guide](https://docs.google.com/document/d/1DIfTYvcwYXi8gSRPLv6jtXNJmlLImZObppLEBtMPyMw/edit?usp=sharing) done.  
-Strings done.  
+[Guide](https://docs.google.com/document/d/1DIfTYvcwYXi8gSRPLv6jtXNJmlLImZObppLEBtMPyMw/edit?usp=sharing) done.
+Story done.
 Trainers done.
+Gyms done.
 E4 done.
+Post-story done.
 
 ### Johto
-[Guide](https://docs.google.com/document/d/1-lSpUiGoHFPHaFqRZZ2BKd5lP2cbSmKr2YC61WwaU6o/edit?usp=sharing) done.   
-Strings done.  
+[Guide](https://docs.google.com/document/d/1-lSpUiGoHFPHaFqRZZ2BKd5lP2cbSmKr2YC61WwaU6o/edit?usp=sharing) done.
+Story done.
 Trainers done.
+Gyms done.
 E4 done.
+Post-story done.
 
 ### Hoenn
-[Guide](https://docs.google.com/document/d/1P3q2yFLc-7BRSZ9JoYCqGGmc4_p9yKlZysWxdVYjfgs/edit?usp=sharing) done.   
-Strings done.  
+[Guide](https://docs.google.com/document/d/1P3q2yFLc-7BRSZ9JoYCqGGmc4_p9yKlZysWxdVYjfgs/edit?usp=sharing) done.
+Story done.
 Trainers done.
+Gyms done.
 E4 done.
+Post-story done.
 
 ### Sinnoh
-WIP  
-Missing story.  
-Missing trainers.
+[Guide](https://docs.google.com/document/d/1DcAcADH-7BIOWMXG-ZugofCJdjQ65BDbVZmfgG7g6U0/edit?usp=drive_link) done.
+Story done.
+Trainers done.
+Gyms done.
 E4 done.
+Post-story done.
 
 ### Unova
-[Guide](https://docs.google.com/document/d/1H28MGN9PG6yQOq_ntnWoXzCQg1BctYPEuS0n3z77TWg) 
-Strings done.  
+[Guide](https://docs.google.com/document/d/1H28MGN9PG6yQOq_ntnWoXzCQg1BctYPEuS0n3z77TWg) done.
+Story done.
 Trainers done.
+Gyms done.
 E4 done.
+Post-story done.
 
 ### Miscellaneous
 Replaced most berry strings.
