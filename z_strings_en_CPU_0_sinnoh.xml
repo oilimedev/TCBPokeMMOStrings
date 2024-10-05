@@ -45,6 +45,7 @@
     <string block_id="0" entry_id="23" table_id="547">{09}</string> <!-- Day Care Cancel -->
 
     <!-- Trainers & Story -->
+    <string block_id="0" entry_id="46" table_id="613">{09}</string>
     <string block_id="0" entry_id="0" table_id="56">{09}</string>
     <string block_id="0" entry_id="1" table_id="56">{09}</string>
     <string block_id="0" entry_id="0" table_id="67">{09}</string>
@@ -2830,5 +2831,7 @@
     <string block_id="0" entry_id="1704" table_id="617">{09}</string>
     <string block_id="0" entry_id="1705" table_id="617">{09}</string>
     <string block_id="0" entry_id="1706" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1163" table_id="617">{09}</string>
+    <string block_id="0" entry_id="2452" table_id="617">{09}</string>
     
 </ds_strings_archive>

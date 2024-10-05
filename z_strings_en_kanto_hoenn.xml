@@ -3,15 +3,28 @@
 
     <!-- General -->
     <string id="6012">{09}</string> <!-- Item Worn Off -->
-    <string id="5020">Horde!</string> <!-- Horde String-->
-    <string id="5021">Horde!</string> <!-- Wild Horde String-->
-    <string id="200245">{23} {16}!</string>
-    <string id="205245">{23} {16}!</string>
+    <string id="5020">{09}</string> <!-- Horde String-->
+    <string id="5021">{09}</string> <!-- Wild Horde String-->
+    <string id="200245">{09}</string>
+    <string id="205245">{09}</string>
     <string id="200436">{01} KO!</string>
     <string id="6063">Found {00}!</string>
     <string id="200245">{23} uses{09}{16}!</string>
     <string id="205245">{23} uses{09}{16}!</string>
     <string id="6064">{09}</string> <!-- BP Earned -->
+    <string id="16780160">{09}</string>
+    <string id="16780161">{09}</string>
+    <string id="16780162">{09}</string>
+    <string id="16780163">{09}</string>
+    <string id="16780164">{09}</string>
+    <string id="16780170">{09}</string>
+    <string id="16780171">{09}</string>
+    <string id="16780172">{09}</string>
+    <string id="16780173">{09}</string>
+    <string id="16780174">{09}</string>
+    <string id="16780175">{09}</string>
+    <string id="16780176">{09}</string>
+    <string id="16780179">{09}</string>
 
     <!-- HMs -->
     <string id="16780155">{09}</string> <!-- Kanto and Hoenn HM Usage -->
@@ -4541,6 +4554,7 @@
     <string id="16780140">{09}</string>
     <string id="270562766">{09}</string>
     <string id="16777261">{09}</string>
+    <string id="16779071">{09}</string>
     <!-- Honeytress -->
     <string id="16780141">1 Honey, more?</string>
     <string id="16780142">2 Honey, more?</string>

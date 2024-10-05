@@ -8,8 +8,15 @@
     <string block_id="0" entry_id="44" table_id="15">{09}</string>
     <string block_id="0" entry_id="59" table_id="15">{09}</string>
     <string block_id="0" entry_id="60" table_id="15">{09}</string>
-    <string block_id="0" entry_id="58" table_id="15">{09}</string> <!-- Money obtained -->
-    <string block_id="0" entry_id="1" table_id="14">The wild {00} fainted!</string>
+    <string block_id="0" entry_id="58" table_id="15">{09}</string><!-- Money obtained -->
+    <string block_id="0" entry_id="1" table_id="14">{09}</string>
+    <string block_id="0" entry_id="384" table_id="14">Crit!</string>
+    <string block_id="0" entry_id="385" table_id="14">Crit!</string>
+    <string block_id="0" entry_id="386" table_id="14">Crit!</string>
+    <string block_id="0" entry_id="1" table_id="15">{09}</string>
+    <string block_id="0" entry_id="2" table_id="15">{09}</string>
+    <string block_id="0" entry_id="3" table_id="15">{09}</string>
+    <string block_id="0" entry_id="4" table_id="15">{09}</string>
 
 	<!-- Payday -->
     <string block_id="0" entry_id="122" table_id="15">{09}</string>
@@ -18,7 +25,20 @@
     <string block_id="0" entry_id="176" table_id="234">{09}</string>
     <string block_id="0" entry_id="177" table_id="234">{09}</string>
 
-    <!-- HMs -->
+    <!-- Learn Move -->
+    <string block_id="0" entry_id="32" table_id="157">{09}</string> <!-- Wants to Learn -->
+    <string block_id="0" entry_id="3" table_id="204">{09}</string> <!-- Learned Text -->
+    <string block_id="0" entry_id="4" table_id="204">{09}</string> <!-- Wants To Learn -->
+    <string block_id="0" entry_id="5" table_id="204">{09}</string> <!-- Move Learned Delay -->
+    <string block_id="0" entry_id="6" table_id="204">{09}</string> <!-- Learned -->
+    <string block_id="0" entry_id="7" table_id="204">{09}</string>  <!-- Give Up Learn Prompt -->
+    <string block_id="0" entry_id="8" table_id="204">{09}</string> <!-- Not Learned -->
+    <string block_id="0" entry_id="38" table_id="157">{09}</string> <!-- Not Learned -->
+
+	<!-- Evolving -->
+    <string block_id="0" entry_id="0" table_id="172">{00} evolving.</string>
+    <string block_id="0" entry_id="1" table_id="172">{00} stopped evolving.</string>
+    <string block_id="0" entry_id="2" table_id="172">{00} to {01}.</string>
 
     <!-- TMs -->
     <string block_id="0" entry_id="52" table_id="8">{09}</string> <!-- TM Usage -->
@@ -973,5 +993,6 @@
     <string block_id="0" entry_id="151" table_id="189">{09}</string>
     <string block_id="0" entry_id="1342" table_id="189">{09}</string>
     <string block_id="0" entry_id="134" table_id="189">{09}</string>
+    <string block_id="0" entry_id="1599" table_id="189">{09}</string>
     
 </ds_strings_archive>
