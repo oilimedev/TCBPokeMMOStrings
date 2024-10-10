@@ -34,6 +34,9 @@
     <string block_id="0" entry_id="7" table_id="204">{09}</string>  <!-- Give Up Learn Prompt -->
     <string block_id="0" entry_id="8" table_id="204">{09}</string> <!-- Not Learned -->
     <string block_id="0" entry_id="38" table_id="157">{09}</string> <!-- Not Learned -->
+    <string block_id="0" entry_id="16" table_id="204">{09}</string>
+    <string block_id="0" entry_id="40" table_id="157">{09}</string>
+    <string block_id="0" entry_id="41" table_id="157">{09}</string>
 
 	<!-- Evolving -->
     <string block_id="0" entry_id="0" table_id="172">{00} evolving.</string>
