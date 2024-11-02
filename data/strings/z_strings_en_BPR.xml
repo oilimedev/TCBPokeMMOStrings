@@ -1,162 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<strings is_primary="0" lang="en" lang_full="English">
+<strings is_override="0" is_primary="0" lang="en" lang_full="English">
+    <!-- Regions Ferry -->
+    <string id="16780100">Where to go?</string>
 
-    <!-- General -->
-    <string id="6012">{09}</string> <!-- Item Worn Off -->
-    <string id="5020">{09}</string> <!-- Horde String-->
-    <string id="5021">{09}</string> <!-- Wild Horde String-->
-    <string id="200245">{09}</string>
-    <string id="205245">{09}</string>
-    <string id="200436">{01} KO!</string>
-    <string id="6063">Found {00}!</string>
-    <string id="200245">{23} uses{09}{16}!</string>
-    <string id="205245">{23} uses{09}{16}!</string>
-    <string id="6064">{09}</string> <!-- BP Earned -->
-    <string id="16780160">{09}</string>
-    <string id="16780161">{09}</string>
-    <string id="16780162">{09}</string>
-    <string id="16780163">{09}</string>
-    <string id="16780164">{09}</string>
-    <string id="16780170">{09}</string>
-    <string id="16780171">{09}</string>
-    <string id="16780172">{09}</string>
-    <string id="16780173">{09}</string>
-    <string id="16780174">{09}</string>
-    <string id="16780175">{09}</string>
-    <string id="16780176">{09}</string>
-    <string id="16780179">{09}</string>
+    <!-- Rock Smash -->
+    <string id="1826973">{09}</string>
+    <string id="1827042">It's a rugged rock, but a POKéMON\nmay be able to smash it.</string>
 
-    <!-- HMs -->
-    <string id="16780155">{09}</string> <!-- Kanto and Hoenn HM Usage -->
-    <string id="271124337">{09}</string>
-    <string id="1826775">{09}</string>
-    <string id="16777216">{09}</string> <!-- HM Badge Requirement -->
-    <string id="16777265">{09}</string>
-    <string id="16780421">{09}</string>
-    
-    <!-- Lures -->
-    <string id="1151">{00} R step(s).</string>
-    <string id="1152">{00} S step(s).</string>
-    <string id="16777251">{00} L step(s).</string>
-    <string id="16777253">{00} PL step(s).</string>
-    <string id="16777277">{00} LL lure step(s).</string>
+    <!-- Kanto PokeCenter -->
+    <string id="1725571">{09}</string>
+    <string id="1725665">{09}</string>
+    <string id="1725713">{09}</string>
+    <string id="1725739">{09}</string>
+    <!-- Kanto Mom Healing -->
+    <string id="1627089">{09}</string>
+    <string id="1627128">{09}</string>
 
-    <!-- Ho-Oh Strings -->
-    <string id="16777273">{09}</string>
-    <string id="16777274">{09}</string>
-    <string id="16777275">{09}</string>
-    <string id="16777276">{09}</string>
- 
-    <!-- TMs -->
-    <string id="271124337">{09}</string>
-    <string id="8600">{09}</string> <!-- Out of PP Prompt -->
-
-    <!-- PC -->
-    <string id="2350">{09}</string> <!-- PC Menu -->
-    <string id="2351"> PC</string>
-
-    <!-- Pirate -->
-    <string id="16780100">{09}</string>
-    <string id="16780102">{09}</string> <!-- New Region Prompt -->
-    <string id="16780103">{09}</string>
-    <string id="16780104">{09}</string>
-    <string id="16780110">{09}</string> <!-- Chatot Dialog -->
-
-    <!-- Battle -->
-    <!-- Menu -->
-    <string id="5101">{09}</string> <!-- Fight Subtext -->
-    <string id="5121">{09}</string> <!-- Summary Subtext -->
-    <string id="5107">{09}</string> <!-- Run Subtext -->
-    <string id="5103">{09}</string> <!-- Switch Subtext -->
-
-    <!-- Combat Text -->
-
-    <!-- Item Pick Up -->
-    <string id="271002303"> x1 {03}!</string>
-    <string id="1724977"> x1 {03}!</string>
-    <string id="16777232"> x{01} {02}(s)!</string>
-
-    <!-- Move Tutors -->
-    <string id="16779020">{09}</string>
-    <string id="16779021">{09}</string>
-    <string id="16779022">{09}</string>
-    <string id="16779023">{09}</string>
-    <string id="16779024">{09}</string>
-    <string id="16779025">{09}</string>
-    <string id="16779026">{09}</string>
-    <string id="16779027">{09}</string>
-    <string id="16779035">{09}</string>
-    <string id="16779052"> x{00} {01}?</string>
-    <string id="16779034">{09}</string>
-
-
-    <!-- Kanto -->
-        <!-- HMs -->
-        <string id="1725806">{09}</string> <!-- Surf Prompt -->
-        <string id="1826708">{09}</string> <!-- Cut Prompt -->
-        <string id="1826973">{09}</string> <!-- Rock Smash Prompt -->
-        <string id="1827647">{09}</string> <!-- Waterfall Prompt -->\
-        <string id="271124780">{09}</string>
-        <string id="271124876">{09}</string>
-        <string id="271124950">{09}</string>
-        <string id="271125014">{09}</string>
-        <string id="1827226">{09}</string>
-        <string id="1827322">{09}</string>
-        <string id="1827396">{09}</string>
-        <string id="1827460">{09}</string>
-        
-        <!-- Received -->
-        <string id="1693601"> HM-05Flash</string> <!-- Flash Received -->
-
-        <!-- Pokecenter -->
-        <string id="1725571">{09}</string> <!-- Nurse Joy -->
-        <string id="1725665">{09}</string>
-        <string id="1725713">{09}</string>
-        <string id="1725739">{09}</string>
-        <string id="1561680">{09}</string>
-
-        <!-- Fossil Pick Up -->    
-        <string id="1519223"> DOME FOSSIL?</string>
-        <string id="1519252"> HELIX FOSSIL?</string>
-        <string id="1519282"> HELIX FOSSIL!</string>
-        <string id="1519309"> DOME FOSSIL!</string>
-
-        <!-- Third Gym Buttons -->
-        <string id="1659529">Trash.</string>
-        <string id="1659560">1st click!</string>
-        <string id="1659696">2nd click!</string>
-        <string id="1659756">Reset!</string>
-
-        <!-- Oak's Aidees -->
-        <string id="1698277"> {02} kinds of POKéMON?</string>
-        <string id="1701291"> {02} kinds of POKéMON?</string>
-        <string id="1702670"> 40 kinds of POKéMON?</string>
-
-    <!-- Johto -->
-    <!-- HMs -->
-    <string id="16777272">{09}</string> <!-- Headbutt No Pokemon -->
-
-    <!-- Hoenn -->
-    <!-- HMs -->
-    <string id="271003606">{09}</string> <!-- Surf Prompt -->
-    <string id="271125418">{09}</string> <!-- Dive Not Learned --> 
-    <string id="271125480">{09}</string> <!-- Dive Down Prompt -->
-    <string id="271125614">{09}</string> <!-- Dive Up Prompt -->
-    <string id="271125134">{09}</string> <!-- Waterfall Not Learned -->
-    <string id="271125187">{09}</string> <!-- Waterfall Prompt -->
-    <string id="271124780">{09}</string> <!-- Strength Prompt -->
-    <string id="271125014">{09}</string> <!-- Strength Message -->
-    <string id="271124538">{09}</string> <!-- Rock Smash Prompt -->
-    <string id="271124607">{09}</string> <!-- Rock Smash Not Learned -->
-    <string id="271124270">{09}</string> <!-- Cut Prompt -->
-    <string id="271124337">{09}</string> <!-- Cut Usage -->
-    <string id="271124349">{09}</string> <!-- Cut Not Learned -->
-
-    <!-- Poke Center -->
-    <string id="271001323">{09}</string> <!-- Nurse Joy -->
+    <!-- Hoenn PokeCenter -->
+    <string id="271001323">{09}</string>
     <string id="271002048">{09}</string>
     <string id="271001496">{09}</string>
     <string id="271001563">{09}</string>
+    <!-- Hoenn Mom Healing -->
+    <string id="270499080">{09}</string>
+    <string id="270499164">{09}</string>
 
     <!-- Poke Mart  -->
     <string id="271002145">{09}</string>
@@ -164,108 +31,209 @@
     <string id="1729041">{09}</string>
     <string id="1724816">{09}</string>
 
-    <!-- Berries -->
-    <string id="16780314">{09}</string> <!-- Dead Berry Plant -->
-    <string id="16780319">{09}</string> <!-- Dead Berry Plant -->
-    <string id="16780322">{09}</string> <!-- Dead Berry Plant -->
-    <string id="16780315">{09}</string> <!-- Dry Soil -->
-    <string id="16780316">{09}</string> <!-- Moist Soil -->
-    <string id="16780317">{09}</string> <!-- Wet Soil -->
-    <string id="16780318">{09}</string> <!-- Flooded Soil -->
-    <string id="16780320">{09}</string> <!-- Almost Dry Soil -->
-    <string id="16780321">{09}</string> <!-- Almost Flooded Soil -->
-    <string id="16780335">{09}</string> <!-- Dry Soil -->
-    <string id="16780336">{09}</string> <!-- Almost Dry Soil -->
-    <string id="16780337">{09}</string> <!-- Moist Soil -->
-    <string id="16780338">{09}</string> <!-- Wet Soil -->
-    <string id="16780339">{09}</string> <!-- Almost Flooded Soil -->
-    <string id="16780340">{09}</string> <!-- Flooded Soil -->
-    <string id="16780326">{09}</string> <!-- Plant Prompt -->
-    <string id="16780327">{09}</string> <!-- Water Prompt -->
-    <string id="16780328">{09}</string> <!-- Water Usage -->
-    <string id="16780329">{09}</string> <!-- Pick Prompt -->
-    <string id="16780330">{09}</string> <!-- Not Pick Usage -->
-    <string id="16780331">{09}</string> <!-- Pick Usage -->
-    <string id="16780350">{09}</string> <!-- Berry Growth -->
-    <string id="16780351">{09}</string> <!-- Berry Growth -->
-    <string id="16780352">{09}</string> <!-- Berry Growth -->
-    <string id="16780353">{09}</string> <!-- Berry Growth -->
-    <string id="16780375">{09}</string> <!-- Can NPC-->
-    <string id="16780309">{09}</string>
-    <string id="16780310">{09}</string>
-    <string id="16780324">{09}</string>
+    <!-- Item Renames -->
+        <!-- Braces -->
+        <string id="245289">Bracer +Atk</string>
+        <string id="245290">Bracer +Def</string>
+        <string id="245291">Bracer +SpAtk</string> 
+        <string id="245292">Bracer +SpDef</string>
+        <string id="245293">Bracer +Spe</string>
+        <string id="245294">Bracer +HP</string>
 
-    <!-- Day Care -->
-    <string id="16779080">{09}</string> <!-- Pokemon Prompt -->
-    <string id="16779081">{09}</string> <!-- Not Enough Pokemon -->
-    <string id="16779082">{09}</string> <!-- Confirm Trade -->
-    <string id="16779083">{09}</string> <!-- Pokemon Selection -->
-    <string id="16779084">{09}</string> <!-- Pokemon Selection -->
-    <string id="16779085">{09}</string> <!-- Incompatible Pokemon -->
-    <string id="16779087">{09}</string> 
-    <string id="16779088">{09}</string>
-    <string id="16779091">{09}</string> <!-- Gender Prompt -->
-    <string id="16779092">{09}</string> <!-- Gender Prompt -->
-    <string id="16779093"> ${00} OK?</string>
-    <string id="16779094">{09}</string>
-    <string id="271131670">{09}</string> <!-- Cancel Trade -->
-    <string id="1695196">{09}</string> <!-- Cancel Trade -->
-    <string id="16777221">{09}</string>
-    <string id="16777223">{09}</string>
-    <string id="271131087">{09}</string>
-    <string id="271131044">{09}</string>
-    <string id="271131044">{09}</string> <!-- Kanto Give Egg -->
-    <string id="271131087">{09}</string> <!-- Kanto Give Egg -->
-    <string id="270692404">{09}</string> <!-- Kanto Give Egg -->
-    <string id="16779070">{09}</string> <!-- Braces Seller -->
-    <string id="1832746">{09}</string>
-    <string id="1832789">{09}</string>
+    <!-- HMs -->
+    <string id="16780155">{09}</string> <!-- Ocarina Summoned Dialog -->
     
-    <!-- Events -->
-    <!-- Halloween -->
-    <string id="16800210">{09}</string>
-    <string id="16800211">{09}</string>
-    <string id="16800027">{09}</string>
-    <string id="16800028">{09}</string>
-    <string id="16800029">{09}</string>
-    <string id="16800023">{09}</string>
-    <string id="16800024">{09}</string>
-    <string id="16800025">{09}</string>
-    <string id="16800026">{09}</string>
-    <string id="16800203">{09}</string>
-    <string id="16800040">{09}</string>
-    <string id="16800030">{09}</string>
-    <string id="16800031">{09}</string>
-    <string id="16800032">{09}</string>
-    <string id="16800033">{09}</string>
-    <string id="16800034">{09}</string>
-    <string id="16800035">{09}</string>
-    <string id="16800036">{09}</string>
-    <string id="16800037">{09}</string>
-    <string id="16800038">{09}</string>
-    <string id="16800041">{09}</string>
-    <string id="16800042">{09}</string>
-    <string id="16800053">{09}</string>
+    <!-- Kanto HMs  -->
+    <string id="1826775">{03}!</string>
+    <string id="1826973">Rock Smash?</string>
+    <string id="1827042">Rock Smash not learned.</string>
+    <string id="1826708">Cut?</string>
+    <string id="1826775">Cut!</string>
+    <string id="1826787">Cut not learned.</string>
+    <string id="1725806">Surf?<string>
+    <string id="271003606">Surf?</string>
+    <string id="1725861">Surf!</string>
 
-    <!-- Lunar New Year -->
-    <string id="16805019">{09}</string>
-    <string id="16805020">{09}</string>
-    <string id="16805021">{09}</string>
-    <string id="16805022">{09}</string>
-    <string id="16805079">{09}</string>
-    <string id="16805080">{09}</string>
-    <string id="16805081">{09}</string>
-    <string id="16805082">For 8 of them, I'll offer you a{09}{STRING_101730}.</string>
-    <string id="16805083">{00} until the next reward.</string>
-    <string id="16805084">{09}</string>
-    <string id="16805085">{09}</string>
-    <string id="16805087">{09}</string>
-    <string id="16805088">{09}</string>
-    <string id="16805090">{09}</string>
-    <string id="16805091">{09}</string>
-    <string id="16805092">{09}</string>
-    <string id="16805093">{09}</string>
-    <string id="16805094">{09}</string>
+
+    <!-- Hoenn HMs -->
+    <string id="271124337">{03}!</string>
+    <string id="271124270">Cut?</string>
+    <string id="271124349">Cut not learned.</string>
+    <string id="271124538">Rock Smash?</string>
+    <string id="271124607">Rock Smash not learned.</string>
+    <string id="271124780">Strength?</string>
+    <string id="271124876">Strength!</string>
+    <string id="271124950">Strength not learned.</string>
+    <string id="271125014">Strength!</string>
+    <string id="271125134">Waterfall not learned.</string>
+    <string id="271125187">Waterfall?</string>
+    <string id="271125244">Waterfall!</string>
+    <string id="271125418">Dive not learned.</string>
+    <string id="271125480">Dive?</string>
+    <string id="271125530">Dive!</string>
+    <string id="271125544">Dive not learned.</string>
+    <string id="271125614">Dive?</string>
+
+    <!-- Battle Frontier -->
+    <string id="270923770">{09}</string>
+    <string id="270925586">{09}</string>
+
+    <!-- Kanto Gyms -->
+        <!-- Pewter -->
+        <string id="1641684">Gym battle starting....</string>
+        <string id="1642063">{09}</string>
+        <string id="1642767">Gym on cooldown...</string>
+        <!-- Vermilion -->
+        <string id="1657764">Gym battle starting...</string>
+        <string id="1658371">{09}</string>
+        <string id="1657998">Gym on cooldown...</string>
+        <!-- Cinnabar -->
+        <string id="1676611">Gym battle starting...</string>
+        <string id="1676794">{09}</string>
+        <string id="1677085">Gym on cooldown...</string>
+        <!-- Celadon -->
+        <string id="1667348">Gym battle starting...</string>
+        <string id="1667680">{09}</string>
+        <string id="1667768">Gym is on cooldown...</string>
+        <!-- Saffron -->
+        <string id="1684796">Gym battle starting...</string>
+        <string id="1684994">{09}</string>
+        <string id="1685490">Gym is on cooldown...</string>
+        <!-- Fuchsia -->
+        <string id="1671982">Gym battle starting...</string>
+        <string id="1672260">{09}</string>
+        <string id="1672321">Gym on cooldown...</string>
+        <!-- Cerulean -->
+        <string id="1647087">Gym battle starting...</string>
+        <string id="1647661">{09}</string>
+        <string id="1647295">Gym on cooldown...</string>
+
+    <!-- Kanto Elite Four -->
+    <string id="1681624">Elite Four starting...</string>
+        <!-- Lorelei -->
+        <string id="1540004">E4 battle starting...</string>
+        <string id="1540233">E4 battle starting...</string>
+        <string id="1540497">{09}</string>
+        <string id="1540528">E4 beaten.</string>
+        <!-- Bruno -->
+        <string id="1540623">E4 battle starting...</string>
+        <string id="1540876">E4 battle starting...</string>
+        <string id="1541129">{09}</string>
+        <string id="1541152">E4 beaten.</string>
+        <!-- Agatha -->
+        <string id="1541197">E4 battle starting...</string>
+        <string id="1541517">E4 battle starting...</string>
+        <string id="1541847">{09}</string>
+        <string id="1541888">E4 beaten.</string>
+        <!-- Lance -->
+        <string id="1541988">E4 battle starting...</string>
+        <string id="1542333">E4 battle starting...</string>
+        <string id="1542677">{09}</string>
+        <string id="1542738">E4 beaten.</string>
+        <!-- Blue -->
+        <string id="1543020">E4 battle starting...</string>
+        <string id="1543380">E4 battle starting...</string>
+        <string id="1543743">{09}</string>
+        <string id="1543983">E4 beaten.</string>
+        <!-- Post Blue -->
+        <string id="1544134">{09}</string>
+        <string id="1544143">{09}</string>
+        <string id="1544335">{09}</string>
+        <string id="1544611">{09}</string>
+        <string id="1544751">{09}</string>
+        <string id="1545062">{09}</string>
+        
+    <!-- Hoenn Gyms -->
+        <!-- Rustboro -->
+        <string id="270613551">Gym battle starting...</string>
+        <string id="270613753">{09}</string>
+        <string id="270612903">Gym on cooldown...</string>
+        <!-- Dewford -->
+        <string id="270521028">Gym battle starting...</string>
+        <string id="270521191">{09}</string>
+        <string id="270520845">Gym on cooldown...</string>
+        <!-- Mauville -->
+        <string id="270592423">Gym battle starting...</string>
+        <string id="270592765">Gym battle starting...</string>
+        <string id="270592578">{09}</string>
+        <string id="270592606">Gym on cooldown...</string>
+        <!-- Lavaridge -->
+        <string id="270530049">Gym battle starting...</string>
+        <string id="270530398">Gym battle starting...</string>
+        <string id="270530207">{09}</string>
+        <string id="270529862">Gym on cooldown...</string>
+        <!-- Petalburg -->
+        <string id="270561822">{09}</string>
+        <string id="270561920">{09}</string>
+        <string id="270561979">{09}</string>
+        <string id="270562039">{09}</string>
+        <string id="270562097">{09}</string>
+        <string id="270562156">{09}</string>
+        <string id="270562215">{09}</string>
+        <string id="270562276">{09}</string>
+        <string id="270562466">Gym battle starting...</string>
+        <string id="270562766">{09}</string>
+        <string id="270562807">Gym is on cooldown...</string>
+        <!-- Fortree -->
+        <string id="270627072">Gym battle starting...</string>
+        <string id="270627302">{09}</string>
+        <string id="270626929">Gym on cooldown...</string>
+        <!-- Mossdeep -->
+        <string id="270671544">Gym battle starting...</string>
+        <string id="270671115">Gym battle starting...</string>
+        <string id="270671365">{09}</string>
+        <string id="270671429">Gym on cooldown...</string>
+        <string id="270670621">Gym on cooldown...</string>
+        <!-- Sootopolis -->
+        <string id="270686544">Gym battle starting...</string>
+        <string id="270687048">Gym battle starting...</string>
+        <string id="270686766">{09}</string>
+        <string id="270592293">Gym on cooldown...</string>
+        <!-- Ever Grande -->
+
+    <!-- Hoenn Elite Four -->
+    <string id="270702312">Elite Four starting...</string>
+    <string id="270702471">Missing badges...</string>
+    <string id="270702575">Go!</string>
+        <!-- Sidney -->
+        <string id="270696359">E4 battle starting...</string>
+        <string id="270696610">{09}</string>
+        <string id="270696684">E4 beaten.</string>
+        <!-- Phoebe -->
+        <string id="270696974">E4 battle starting...</string>
+        <string id="270697253">{09}</string>
+        <string id="270697283">E4 beaten.</string>
+        <!-- Glacia -->
+        <string id="270697644">E4 battle starting...</string>
+        <string id="270697908">{09}</string>
+        <string id="270698048">E4 beaten.</string>
+        <!-- Drake -->
+        <string id="270698302">E4 battle starting...</string>
+        <string id="270698645">{09}</string>
+        <string id="270698672">E4 beaten.</string>
+        <!-- Steven -->
+        <string id="270699596">E4 battle starting...</string>
+        <string id="270700204">{09}</string>
+        <string id="270700390">E4 beaten.</string>
+        <!-- Post Steven -->
+        <string id="270700746">{09}</string>
+        <string id="270700811">{09}</string>
+        <string id="270700882">{09}</string>
+        <string id="270700962">{09}</string>
+        <string id="270701030">{09}</string>
+        <string id="270701389">{09}</string>
+        <string id="270701465">{09}</string>
+        <string id="270701547">{09}</string>
+        <string id="270701689">{09}</string>
+        <string id="270701813">{09}</string>
+        <string id="270702862">{09}</string>
+        <string id="270703011">{09}</string>
+        <string id="270703322">{09}</string>
+        <string id="270703458">{09}</string>
+        <string id="271211820">{09}</string>
+        <string id="271213373">{09}</string>
+
+        
 
     <!-- Hoenn Story & Trainers -->
     <string id="270436028">{09}</string>
@@ -4556,33 +4524,4 @@
     <string id="270562766">{09}</string>
     <string id="16777261">{09}</string>
     <string id="16779071">{09}</string>
-    <!-- Honeytress -->
-    <string id="16780141">1 Honey, more?</string>
-    <string id="16780142">2 Honey, more?</string>
-    <string id="16780143">3 Honey.</string>
-    <!-- Braces -->
-    <string id="245289">Power Bracer +Atk</string>
-    <string id="245290">Power Belt +Def</string>
-    <string id="245291">Power Lens +SpAtk</string>
-    <string id="245292">Power Band +SpDef</string>
-    <string id="245293">Power Anklet +Spe</string>
-    <string id="245294">Power Weight +HP</string>
-
-    <!-- FAQs -->
-    <string id="1112">Elite Four Guide</string>
-
-    <!-- Memes -->
-    <string id="1605">BP:</string>
-    <string id="1602">{09}</string>
-    <string id="1603">{00} hour(s).</string>
-    <string id="1607"> Lv. {00}</string>
-    <string id="1606">Slaved</string>
-
-    <!-- Battle Frontier -->
-    <string id="270923770">{09}</string>
-    <string id="270925586">{09}</string>
-
-    <!-- Memes -->
-    <string id="69420">Shelly and Courtney{09}my beloved.</string>
-    <string id="69421">Congratulations to Jaddee{09}for the Shiny Eevee.</string>
 </strings>
