@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_override="0" is_primary="0" lang="en" lang_full="English">
+    <!-- E4 Item Rename For Sorting -->
+    <string id="240077">aX Speed</string>
+    <string id="245059">  X Speed</string>
+    <string id="245061"> X Special</string>
+    <string id="245058"> X Defend</string>
+    <string id="245017"> Potion</string>
+    <string id="245019"> Burn Heal</string>
+    <string id="245037"> Revival Herb</string>
+    <string id="245162"> Aguav Berry</string>
+    <string id="245158"> Sitrus Berry</string>
+    <string id="245169">Pomeg Berry (-HP)</string>
+    <string id="245170">Kelpsy Berry (-Atk)</string>
+    <string id="245171">Qualot Berry (-Def)</string>
+    <string id="245172">Hondew Berry (-SpAtk)</string>
+    <string id="245173">Grepa Berry (-SpDef)</string>
+    <string id="245174">Tamato Berry (-Spe)</string>
+
+    <!-- Battle Text -->    
+    <string id="5072">{09}</string> <!-- One Poke Out -->
+    <string id="5073">{09}</string> <!-- Two Pokes Out -->
+    <string id="5074">{09}</string> <!-- Three Pokes Out -->
+    
     <!-- Regions Ferry -->
     <string id="16780100">Where to go?</string>
 
