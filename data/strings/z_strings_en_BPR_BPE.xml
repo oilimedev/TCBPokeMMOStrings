@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_override="0" is_primary="0" lang="en" lang_full="English">
     <!-- E4 Item Rename For Sorting -->
-    <string id="240077">aX Speed</string>
+    <string id="240077">  X Speed</string>
     <string id="245059">  X Speed</string>
     <string id="245061"> X Special</string>
     <string id="245058"> X Defend</string>
@@ -76,6 +76,13 @@
     <string id="271003606">Surf?</string>
     <string id="1725861">Surf!</string>
 
+    <!-- Halloween 2024 -->
+    <string id="16800224">Wake up?</string>
+    <string id="16800225">Sleep?</string>
+
+    <!-- Raids -->
+    <string id="16805074">{00}.</string>
+    <string id="16805075">Challenge this raid?\nLv. {00} {01} {02}</string>
 
     <!-- Hoenn HMs -->
     <string id="271124337">{03}!</string>
