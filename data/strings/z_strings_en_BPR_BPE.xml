@@ -79,6 +79,12 @@
     <!-- Halloween 2024 -->
     <string id="16800224">Wake up?</string>
     <string id="16800225">Sleep?</string>
+    <string id="16800210">No Spooky Candy.</string>
+    <string id="16800222">Use Spooky Candy?</string>
+    <string id="100033">  Spooky Candy</string>
+    <string id="100035"> Goodie Bag (2024)</string>
+    <string id="100079"> Pumpking Goodie Bag (2024)</string>
+    <string id="100080">  Special Candy</string>
 
     <!-- Raids -->
     <string id="16805074">{00}.</string>
