@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_override="0" is_primary="0" lang="en" lang_full="English">
+    <!-- Choice Items -->
+    <string id="245297">  Choice Specs</string>
+    <string id="249297">  Choice Specs</string>
+    <string id="248297">  Choice Specs</string>
+    <string id="245287">  Choice Scarf</string>
+    <string id="248287">  Choice Scarf</string>
+    <string id="249287">  Choice Scarf</string>
+    <string id="240186">  Choice Band</string>
+    <string id="240686">  Choice Band</string>
+    <string id="245220">  Choice Band</string>
+    <string id="249220">  Choice Band</string>
+    <string id="248220">  Choice Band</string>
+
+    <!-- X Items -->
+    <string id="240075"> X Attack</string>
+    <string id="240575"> X Attack</string>
+    <string id="245057"> X Attack</string>
+    <string id="248057"> X Attack</string>
+    <string id="249057"> X Attack</string>
+    <string id="240079"> X Special</string>
+    <string id="240579"> X Special</string>
+    <string id="245061"> X Special</string>
+    <string id="248061"> X Special</string>
+    <string id="249061"> X Special</string>
+</strings>
