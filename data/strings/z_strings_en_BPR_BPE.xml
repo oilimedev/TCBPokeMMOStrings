@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_override="0" is_primary="0" lang="en" lang_full="English">
-    <!-- E4 Item Rename For Sorting -->
-    <string id="240077">  X Speed</string>
-    <string id="245059">  X Speed</string>
-    <string id="245061"> X Special</string>
-    <string id="245058"> X Defend</string>
+    <!-- E4 Item Rename For Sorting --> 
+    <string id="245059">   X Speed</string>
+    <string id="245061">  X Special</string>
+    <string id="245058">  X Defend</string>
     <string id="245017"> Potion</string>
     <string id="245019"> Burn Heal</string>
     <string id="245037"> Revival Herb</string>
@@ -16,6 +15,7 @@
     <string id="245172">Hondew Berry (-SpAtk)</string>
     <string id="245173">Grepa Berry (-SpDef)</string>
     <string id="245174">Tamato Berry (-Spe)</string>
+    <string id="245541"> Air Balloon</string>
 
     <!-- Confirmations -->
 
