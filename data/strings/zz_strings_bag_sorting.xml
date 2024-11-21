@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_override="0" is_primary="0" lang="en" lang_full="English">
+    <!-- Bag Sorting -->
+    <!-- Adventure Items -->
+        <!-- 
+        1. Repels
+        2. Lures
+        3. Ocarinas
+        4. Rest, default sorting.
+        -->
+        <!-- Repels -->
+        <string id="245079">&#x0000;&#x0000;{STRING_240086}</string> <!-- Repel -->
+        <string id="245076">&#x0000;&#x0001;{STRING_240083}</string> <!-- Super Repel -->
+        <string id="245077">&#x0000;&#x0002;{STRING_240084}</string> <!--- Max Repel -->
+        <!-- Lures -->
+        <string id="101654">&#x0001;&#x0000;{STRING_1794}</string> <!-- Lure -->
+
+        <!-- Need Manual Translation For Each Language -->
+            <string id="101656">&#x0001;&#x0001;Super Lure</string>
+            <string id="101658">&#x0001;&#x0002;Expert Lure</string>
+            <string id="101660">&#x0001;&#x0003;Premium Lure</string>
+            <string id="101662">&#x0001;&#x0004;Premium Super Lure</string>
+            <string id="101664">&#x0001;&#x0005;Premium Max Lure</string>
+            <string id="101709">&#x0001;&#x0006;Legendary Lure</string>
+            <!-- Ocarinas -->
+            <string id="101300">&#x0002;{STRING_110015} Ocarina</string>
+            <string id="101302">&#x0002;{STRING_110019} Ocarina</string>
+            <string id="101304">&#x0002;{STRING_110057} Ocarina</string>
+            <string id="101306">&#x0002;{STRING_110070} Ocarina</string>
+            <string id="101308">&#x0002;{STRING_110148} Ocarina</string>
+            <string id="101310">&#x0002;{STRING_110249} Ocarina</string>
+            <string id="101312">&#x0002;{STRING_110127} Ocarina</string>
+            <string id="101314">&#x0002;{STRING_110291} Ocarina</string>
+            <string id="101316">&#x0002;{STRING_110431} Ocarina</string>
+            <string id="101318">&#x0002;{STRING_110432} Ocarina</string>
+            <string id="101320">&#x0002;{STRING_110250} Ocarina</string>
+            <string id="101322">&#x0002;{STRING_110091} Ocarina</string>
+            <string id="101324">&#x0002;{STRING_110100} Ocarina</string>
+            <string id="101326">&#x0002;{STRING_110029} Ocarina</string>
+
+    <!-- Breeding Items -->
+        <!-- 
+        1. Bracers
+        2. Everstone
+        3. Incenses
+        -->
+        <!-- Bracers -->
+        <string id="245289">&#x0000;&#x0001;{STRING_248289} +Atk</string>
+        <string id="245290">&#x0000;&#x0002;{STRING_248290} +Def</string>
+        <string id="245291">&#x0000;&#x0003;{STRING_248291} +SpAtk</string>
+        <string id="245292">&#x0000;&#x0004;{STRING_248292} +SpDef</string>
+        <string id="245293">&#x0000;&#x0005;{STRING_248293} +Spe</string>
+        <string id="245294">&#x0000;&#x0006;{STRING_248294} +HP</string>
+        <!-- Everstone -->
+        <string id="245229">&#x0001;&#x0000;{STRING_240695}</string> <!-- Everstone -->
+        <!-- Incenses -->
+
+
+    <!-- Hold Items -->
+        <!-- 
+        1. Choice Items
+        2. 
+        -->
+        <!-- Choice Items -->
+        <string id="245220">&#x0000;{STRING_240186}</string> <!-- Choice Band -->
+        <string id="245287">&#x0000;{STRING_248287}</string> <!-- Choice Scarf -->
+        <string id="245297">&#x0000;{STRING_248297}</string> <!-- Choice Specs -->
+
+
+    <!-- E4 Item Rename For Sorting --> 
+    <!-- <string id="245059">&#x000;X Speed</string>
+    <string id="245061">&#x000;X Special</string>
+    <string id="245058">&#x000;X Defend</string>
+    <string id="245017"> Potion</string>
+    <string id="245019"> Burn Heal</string>
+    <string id="245037"> Revival Herb</string>
+    <string id="245162"> Aguav Berry</string>
+    <string id="245158"> Sitrus Berry</string>
+    <string id="245169">Pomeg Berry (-HP)</string>
+    <string id="245170">Kelpsy Berry (-Atk)</string>
+    <string id="245171">Qualot Berry (-Def)</string>
+    <string id="245172">Hondew Berry (-SpAtk)</string>
+    <string id="245173">Grepa Berry (-SpDef)</string>
+    <string id="245174">Tamato Berry (-Spe)</string>
+    <string id="245541"> Air Balloon</string> -->
+</strings>
