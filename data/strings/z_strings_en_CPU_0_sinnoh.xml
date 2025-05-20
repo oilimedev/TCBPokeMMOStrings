@@ -22,6 +22,22 @@
     <string block_id="0" entry_id="5" table_id="381">{09}</string> <!-- Rock Smash Usage -->
     <string block_id="0" entry_id="18" table_id="381">{09}</string>
 
+    <!-- Item Pickup -->
+    <string block_id="0" entry_id="28" table_id="213">{01}</string>
+    <string block_id="0" entry_id="29" table_id="213">{01}</string>
+    <string block_id="0" entry_id="6" table_id="380">{01} {02}</string>
+    <string block_id="0" entry_id="6" table_id="369">{01} {02}</string>
+    <string block_id="0" entry_id="30" table_id="213">{09}</string>
+    <string block_id="0" entry_id="31" table_id="213">{09}</string>
+    <string block_id="0" entry_id="126" table_id="213">{09}</string>
+    <string block_id="0" entry_id="2" table_id="369">{09}</string>
+    <string block_id="0" entry_id="5" table_id="369">{09}</string>
+    <string block_id="0" entry_id="9" table_id="369">{09}</string>
+    <string block_id="0" entry_id="2" table_id="380">{09}</string>
+    <string block_id="0" entry_id="5" table_id="380">{09}</string>
+    <string block_id="0" entry_id="9" table_id="380">{09}</string>
+
+
     <!-- TMs -->
     <string block_id="0" entry_id="26" table_id="381">{09}</string>
 
@@ -37,7 +53,7 @@
     <string block_id="0" entry_id="3" table_id="213">{09}</string>
     <string block_id="0" entry_id="121" table_id="213">{09}</string>
     <string block_id="0" entry_id="120" table_id="213">{09}</string>
-
+    <string block_id="0" entry_id="32" table_id="213">{00} booted up the PC.\n\n</string>
     <!-- Honey -->
     <string block_id="0" entry_id="51" table_id="213">{09}</string>
 
@@ -2852,5 +2868,6 @@
     <string block_id="0" entry_id="1328" table_id="617">{09}</string>
     <string block_id="0" entry_id="1329" table_id="617">{09}</string>
     <string block_id="0" entry_id="0" table_id="259">{09}</string>
+    <string block_id="0" entry_id="2465" table_id="617">{09}</string>
 
 </ds_strings_archive>

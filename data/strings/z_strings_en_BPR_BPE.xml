@@ -8,11 +8,24 @@
     <string id="16779057">Who?</string>
     <string id="16779034">Again?</string>
     <string id="16779032">${00} for {01}?</string>
+    
+    <!-- Day Care -->
+    <string id="16779080">{09}</string>
+    <string id="16779081">{09}</string>
+    <string id="16779082">{09}</string>
+    <string id="16779083">{09}</string>
+    <string id="16779084">{09}</string>
+    <string id="16779085">{09}</string>
+    <string id="16779086">{09}</string>
+    <string id="16779087">{09}</string>
+    <string id="16779088">{09}</string>
+    <string id="16779089">{09}</string>
 
     <!-- Battle Text -->    
-    <string id="5072">{09}</string> <!-- One Poke Out -->
-    <string id="5073">{09}</string> <!-- Two Pokes Out -->
-    <string id="5074">{09}</string> <!-- Three Pokes Out -->
+    <string id="5072">{01}</string> <!-- One Poke Out -->
+    <string id="5073">{01}, {02}</string> <!-- Two Pokes Out -->
+    <string id="5074">{01}, {02}, {03}</string> <!-- Three Pokes Out -->
+    <string id="200436">{09}</string>
     
     <!-- Regions Ferry -->
     <string id="16780100">Where to go?</string>
@@ -26,6 +39,7 @@
     <string id="1725665">{09}</string>
     <string id="1725713">{09}</string>
     <string id="1725739">{09}</string>
+    <string id="2350">{09}</string>
     <!-- Kanto Mom Healing -->
     <string id="1627089">{09}</string>
     <string id="1627128">{09}</string>
@@ -46,7 +60,6 @@
     <string id="1724816">{09}</string>
 
     <!-- Item Renames -->
-
     <!-- HMs -->
     <string id="16780155">{09}</string> <!-- Ocarina Summoned Dialog -->
     <string id="8600">Refill PP on {01}?</string> <!-- Ran out of PP -->
@@ -254,8 +267,6 @@
         <string id="270703458">{09}</string>
         <string id="271211820">{09}</string>
         <string id="271213373">{09}</string>
-
-        
 
     <!-- Hoenn Story & Trainers -->
     <string id="270436028">{09}</string>

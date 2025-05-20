@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_override="0" is_primary="0" lang="en" lang_full="English">
     <!-- Bag Sorting -->
     <!-- Adventure Items -->
@@ -83,4 +83,4 @@
     <string id="245173">Grepa Berry (-SpDef)</string>
     <string id="245174">Tamato Berry (-Spe)</string>
     <string id="245541"> Air Balloon</string>
-</strings>
+</strings> -->

@@ -201,9 +201,9 @@
     <string block_id="0" entry_id="41" table_id="157">{09}</string>
 
 	<!-- Evolving -->
-    <string block_id="0" entry_id="0" table_id="172">{09}</string>
-    <string block_id="0" entry_id="1" table_id="172">{09}</string>
-    <string block_id="0" entry_id="2" table_id="172">{09}</string>
+    <string block_id="0" entry_id="0" table_id="172">{00} is evolving...</string>
+    <string block_id="0" entry_id="1" table_id="172">{00} stopped evolving!</string>
+    <string block_id="0" entry_id="2" table_id="172">{00} evolved into {01}!</string>
 
     <!-- TMs -->
     <string block_id="0" entry_id="52" table_id="8">{09}</string> <!-- TM Usage -->

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_override="1" is_primary="0" lang="en">
+    <string id="16780328">{09}</string>
+    <string id="16780329">{01} {00}?</string>
+    <string id="16780330">{00} not picked up.</string>
+    <string id="16780331">Picked up {01} {02}.</string>
+    <string id="16780326">{09}</string>
+</strings>
