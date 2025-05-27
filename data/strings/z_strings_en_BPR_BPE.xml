@@ -26,9 +26,26 @@
     <string id="5073">{01}, {02}</string> <!-- Two Pokes Out -->
     <string id="5074">{01}, {02}, {03}</string> <!-- Three Pokes Out -->
     <string id="200436">{09}</string>
+
+    <!-- Fossil -->
+    <string id="16807102">Revive?</string>
+    <string id="16807109">Revive?</string>
+    <string id="16807100">{09}</string>
+    <string id="16807101">{09}</string>
+    <string id="16807103">{09}</string>
+    <string id="16807104">{09}</string>
+    <string id="16807105">{09}</string>
+    <string id="16807106">{09}</string>
+    <string id="16807110">{09}</string>
+    <string id="16807108">{09}</string>
+
+    <!-- Pokedex -->
+    <string id="16780161">{09}</string>
+    <string id="16780162">{09}</string>
     
     <!-- Regions Ferry -->
-    <string id="16780100">Where to go?</string>
+    <string id="16780100">Region?</string>
+    <string id="16780103">Loading...</string>
 
     <!-- Rock Smash -->
     <string id="1826973">{09}</string>
